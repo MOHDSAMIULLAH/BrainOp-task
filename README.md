@@ -18,7 +18,7 @@ It is a full-stack web application for managing user signups and posts with infi
 
 ## Deployed Application
 
-The application is deployed and can be accessed at: [Deployed Link](https://your-deployed-link.com)
+The application is deployed and can be accessed at: Deployed Link : https://brain-op-task.vercel.app
 
 ## Setup Instructions
 
@@ -27,15 +27,16 @@ To run this project locally, follow these steps:
 ### Backend Setup
 
 1. Clone the repository:
-   sh
-   git clone https://github.com/MOHDSAMIULLAH/BrainOp-task.git
+   ```
+      git clone https://github.com/MOHDSAMIULLAH/BrainOp-task.git
    cd BrainOp-task
-   
+   ```
 
 2. Install backend dependencies:
-   sh
+  ```
    cd backend
    npm install
+   ```
    
 
 3. Set up environment variables:
@@ -46,26 +47,26 @@ To run this project locally, follow these steps:
    
 
 4. Start the backend server:
-   sh
+   ```
    npm start
-   
+   ```
 
 ### Frontend Setup
 
 1. Open a new terminal and navigate to the frontend directory:
-   sh
+  ```
    cd ../frontend
-   
+   ```1
 
 2. Install frontend dependencies:
-   sh
+  ```
    npm install
-   
+   ```
 
 3. Start the frontend development server:
-   sh
+   ```
    npm start
-   
+   ```
 
 The application should now be running locally at http://localhost:3000.
 
