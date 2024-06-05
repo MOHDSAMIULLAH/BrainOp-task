@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```
-      git clone https://github.com/MOHDSAMIULLAH/BrainOp-task.git
+   git clone https://github.com/MOHDSAMIULLAH/BrainOp-task.git
    cd BrainOp-task
    ```
 
@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 1. Open a new terminal and navigate to the frontend directory:
   ```
    cd ../frontend
-   ```1
+   ```
 
 2. Install frontend dependencies:
   ```
