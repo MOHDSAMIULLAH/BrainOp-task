@@ -4,7 +4,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
 const Signup = () => {
-  let BASE_URL= "http://localhost:5000"
+  let BASE_URL= "https://brainop-task-62n5.onrender.com"
   const [formData, setFormData] = useState({
     user: "",
     email: "",

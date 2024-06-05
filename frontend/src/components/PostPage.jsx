@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 
-let BASE_URL= "http://localhost:5000"
+let BASE_URL= "https://brainop-task-62n5.onrender.com"
 
 function PostPage() {
     const [posts, setPosts] = useState([]);
